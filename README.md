@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-DataScience Project
+Data Science Course Project
